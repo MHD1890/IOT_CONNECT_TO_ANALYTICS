@@ -1,5 +1,9 @@
 # IOT_CONNECT_TO_ANALYTICS
 This repository for connect your IOT Core to IOT Analytics
+___________________________________________________________
+
+![WhatsApp Image 2023-09-08 at 15 24 54](https://github.com/MHD1890/IOT_CONNECT_TO_ANALYTICS/assets/140581107/30fff817-f4ee-42f2-bc72-e133de9ec84a)
+
 ____________________________________________________________
 Fist you need a module to connect IOT Core, for example iam using ESP32 to export a data {Temperature and Humidty}, next you need and make sure it's connected to mqtt aws.
 
